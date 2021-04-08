@@ -3,3 +3,4 @@ example for pull
 
 New changes
 hello
+hi
